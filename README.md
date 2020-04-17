@@ -3,4 +3,10 @@
 A simple template for [Svelte](https://svelte.dev) apps.
 
 # install
-yarn && yarn dev
+yarn
+
+# run
+yarn dev
+
+# build
+yarn build
