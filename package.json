@@ -20,6 +20,5 @@
     "build": "cross-env NODE_ENV=production webpack",
     "dev": "webpack-dev-server --content-base public",
     "local": "serve ./public"
-  },
-  "dependencies": {}
+  }
 }
